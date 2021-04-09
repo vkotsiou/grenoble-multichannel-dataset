@@ -1,1 +1,3 @@
 # grenoble-multichannel-dataset
+The format of each line of the dataset is:
+Distance, 1st Node, 2nd Node, : channel, asn, (0-failed transmission, 1-succeeded transmission) | channel, asn, (0-failed transmission, 1-succeeded transmission)| .....
